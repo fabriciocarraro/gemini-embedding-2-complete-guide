@@ -1,0 +1,1 @@
+# gemini-embeddings-2-complete-guide
